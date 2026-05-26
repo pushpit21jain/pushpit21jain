@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:090979,50:00d4ff,100:000000&text=Pushpit%20Jain&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20•%20AI%20Explorer%20•%20Data%20Science%20Learner&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,25:0f0c29,50:302b63,75:24243e,100:00d4ff&text=Pushpit%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SIH%202025%20Grand%20Finalist%20•%20Android%20Developer%20•%20AI%20%26%20Data%20Science&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Building+Powerful+Projects;🤖+Exploring+AI+%26+Data+Science;📱+Android+Developer+in+Progress;🚀+Open+Source+Contributor;💡+Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+Building+Scalable+Android+Apps;🤖+Exploring+AI+%26+Data+Science;🏆+SIH+2025+Grand+Finalist;💡+Passionate+About+Problem+Solving;🚀+Always+Learning+Always+Building" />
 
 <br><br>
 
@@ -14,29 +14,39 @@
 
 <img src="https://img.shields.io/github/stars/pushpit21jain?style=for-the-badge&color=8A2BE2&labelColor=0D1117"/>
 
+<img src="https://img.shields.io/badge/SIH%202025-Grand%20Finalist-gold?style=for-the-badge"/>
+
 </div>
 
 ---
 
-# ⚡ SYSTEM PROFILE
+# ⚡ DIGITAL IDENTITY
 
 <div align="center">
 
 ```yaml
 Name: Pushpit Jain
-Role: Java Developer & Tech Explorer
-Focus:
-  - Data Structures & Algorithms
+Location: Delhi, India 🇮🇳
+
+Education:
+  Degree: B.Tech CSE
+  University: GGSIPU
+  Graduation: 2028
+
+Current Domains:
   - Android Development
+  - Data Structures & Algorithms
   - Artificial Intelligence
   - Data Science
-  - Open Source
+  - Problem Solving
 
-Current Mission:
-  Transforming ideas into impactful projects
+Achievements:
+  - SIH 2025 Grand Finalist 🏆
+  - SIH 2024 Internal Round Qualified
+  - Graphic Designer @ AAIRO
 
-Mindset:
-  Learn → Build → Improve → Repeat
+Philosophy:
+  "Build things that solve real problems."
 ```
 
 </div>
@@ -45,11 +55,65 @@ Mindset:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-# 🧠 TECH MATRIX
+# 🧠 DEVELOPER CORE
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚀 Current Focus
+
+```java
+while(true){
+
+    Learn();
+    
+    Build();
+    
+    Improve();
+    
+    Repeat();
+}
+```
+
+### 🔥 Working On
+- Android Apps using Java & Kotlin
+- Strengthening DSA & Problem Solving
+- Exploring AI & Data Science
+- Building Real-World Projects
+- Open Source Contributions
+
+### 💡 Interests
+- Mobile Development
+- System Design
+- AI-Powered Applications
+- UI/UX & Product Thinking
+- Clean Architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQ0NXFqM2F4d2R2ZWp2N3QxYndxY3J4ZmdhZnd1N3M1N3BvZmM5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="420"/>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚔️ TECH STACK
 
 <div align="center">
 
 <table>
+
 <tr>
 
 <td align="center" width="33%">
@@ -58,7 +122,7 @@ Mindset:
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,python,js,html,css&theme=dark"/>
 
 <br><br>
 
@@ -70,17 +134,17 @@ Mindset:
 
 <td align="center" width="33%">
 
-## ⚙️ Development
+## 📱 Development
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,tailwind,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,react,nodejs,tailwind,git,github,vscode,firebase&theme=dark"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/UI%2FUX-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-0096FF?style=for-the-badge"/>
 
 </td>
 
@@ -103,23 +167,51 @@ Mindset:
 </td>
 
 </tr>
+
 </table>
 
 </div>
 
 ---
 
-# 🚀 CURRENT OBJECTIVES
+# 🏆 ACHIEVEMENT ZONE
 
 <div align="center">
 
-| 🎯 Goal | 📌 Status |
-|---|---|
-| Master DSA in Java | 🔥 In Progress |
-| Build Android Applications | ⚡ Active |
-| Learn AI & Data Science | 🧠 Exploring |
-| Open Source Contributions | 🚀 Growing |
-| Build Real-World Products | 💡 Ongoing |
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/120/prize.png"/>
+
+### 🏆 SIH 2025
+Grand Finalist
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/120/source-code.png"/>
+
+### 💻 Problem Solver
+DSA & Competitive Coding
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/120/design.png"/>
+
+### 🎨 Creative Designer
+Graphic Designer @ AAIRO
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -137,7 +229,7 @@ Mindset:
 
 <br><br>
 
-<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=pushpit21jain&bg_color=0d1117&color=00e5ff&line=8A2BE2&point=ffffff&area=true&hide_border=true"/>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=pushpit21jain&bg_color=0d1117&color=00e5ff&line=8A2BE2&point=ffffff&area=true&hide_border=true"/>
 
 <br><br>
 
@@ -147,7 +239,7 @@ Mindset:
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🧬 CONTRIBUTION DNA
 
 <div align="center">
 
@@ -157,9 +249,7 @@ Mindset:
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-# 💻 CODING PROFILES
+# 🧠 CODING PROFILE
 
 <div align="center">
 
@@ -191,7 +281,7 @@ Mindset:
 
 ---
 
-# 🌐 CONNECT NETWORK
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
@@ -211,6 +301,10 @@ Mindset:
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://linktr.ee/jainpushpit21">
+<img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -225,8 +319,8 @@ Mindset:
 
 <div align="center">
 
-# ⚔️ BUILD • LEARN • EVOLVE ⚔️
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:090979,50:00d4ff,100:000000"/>
+# ⚡ BUILDING THE FUTURE, ONE PROJECT AT A TIME ⚡
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,25:0f0c29,50:302b63,75:24243e,100:00d4ff"/>
