@@ -7,7 +7,9 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=pushpit21jain&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  
   <img src="https://img.shields.io/github/followers/pushpit21jain?logo=github&style=for-the-badge" alt="GitHub followers" />
+  
   <img src="https://img.shields.io/github/stars/pushpit21jain?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="Total stars" />
 </p>
 
@@ -33,17 +35,19 @@
 # 🌐 Connect With Me
 
 <p align="left">
+
   <a href="https://github.com/pushpit21jain" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="linkedin.com/in/pushpit-jain-147162309" target="_blank">
+  <a href="https://www.linkedin.com/in/pushpit-jain-147162309" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:jainpushpit21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -92,7 +96,7 @@
 <div align="center">
 
 <a href="https://leetcode.com/u/pushpit_jain21">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/pushpit_jain21?theme=dark&font=JetBrains%20Mono&ext=contest" />
 </a>
 
 </div>
@@ -115,10 +119,11 @@
 
 # 🐍 Contribution Snake
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pushpit21jain/pushpit21jain/output/github-contribution-grid-snake-dark.svg">
+  
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pushpit21jain/pushpit21jain/output/github-contribution-grid-snake.svg">
+  
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/pushpit21jain/pushpit21jain/output/github-contribution-grid-snake.svg">
 </picture>
 
