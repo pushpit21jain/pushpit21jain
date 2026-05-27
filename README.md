@@ -208,10 +208,9 @@ class PushpitJain:
 </div>
 
 ---
-
-# 💻 CODING PROFILE
-
-<div align="center">
+<!--
+# 💻 CODING PROFILE 
+ <div align="center">
 
 <a href="https://leetcode.com/u/pushpit_jain21">
 
@@ -219,7 +218,7 @@ class PushpitJain:
 
 </a>
 
-</div>
+</div>  -->
 
 ---
 
