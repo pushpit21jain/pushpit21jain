@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=📊+Exploring+Data+Science+%26+Machine+Learning;🤖+Building+AI-Powered+Solutions;🧠+Passionate+About+Data+Driven+Thinking;⚡+Solving+Problems+with+Code+and+Logic;🚀+Always+Learning+and+Experimenting" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=📊+Exploring+Data+Science+%26+Machine+Learning;🤖+Building+AI-Powered+Solutions;🧠+Passionate+About+Data+Driven+Thinking;⚡+Solving+Problems+with+Code+and+Logic;🤖+AI+Enthusiast;🚀+Always+Learning+and+Experimenting" />
 
 <br><br>
 
