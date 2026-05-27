@@ -256,9 +256,9 @@ class PushpitJain:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/pushpit_jain21">
+<!-- <a href="https://leetcode.com/u/pushpit_jain21">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+</a> -->
 
 <a href="https://linktr.ee/jainpushpit21">
 <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white"/>
